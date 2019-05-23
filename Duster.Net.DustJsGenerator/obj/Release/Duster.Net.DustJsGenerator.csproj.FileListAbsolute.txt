@@ -1,0 +1,96 @@
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\dust-compiler-icon.png
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\dust-compiler-preview.png
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\LICENSE
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Duster.Net.DustJsGenerator.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Duster.Net.DustJsGenerator.pdb
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Duster.Net.DustJsGenerator.dll.CodeAnalysisLog.xml
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Duster.Net.DustJsGenerator.dll.lastcodeanalysissucceeded
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Duster.Net.DustJsGenerator.pkgdef
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Jint.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\VSLangProj80.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Utilities.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\System.Threading.Tasks.Dataflow.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Threading.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\EnvDTE.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\stdole.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\VSLangProj2.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\VSLangProj.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Validation.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.MSXML.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Utilities.xml
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Threading.xml
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Validation.xml
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\obj\Release\Duster.Net.DustJsGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\obj\Release\Duster.Net.DustJsGenerator.dll
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\obj\Release\Duster.Net.DustJsGenerator.pdb
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\obj\Release\Duster.Net.DustJsGenerator.pkgdef
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\obj\Release\Duster.Net.DustJsGenerator.latest.pkgdef
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\obj\Release\extension.vsixmanifest
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Duster.Net.DustJsGenerator.vsix
+C:\Users\Eric\Desktop\duster.net-master\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\extension.vsixmanifest
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\dust-compiler-icon.png
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\dust-compiler-preview.png
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\LICENSE
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Duster.Net.DustJsGenerator.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Duster.Net.DustJsGenerator.pdb
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Duster.Net.DustJsGenerator.dll.CodeAnalysisLog.xml
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Duster.Net.DustJsGenerator.dll.lastcodeanalysissucceeded
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Duster.Net.DustJsGenerator.pkgdef
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Duster.Net.DustJsGenerator.vsix
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\extension.vsixmanifest
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Jint.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\VSLangProj80.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Utilities.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\System.Threading.Tasks.Dataflow.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Threading.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\EnvDTE.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\stdole.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\VSLangProj2.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\VSLangProj.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Validation.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.MSXML.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Utilities.xml
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Threading.xml
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\bin\Release\Microsoft.VisualStudio.Validation.xml
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\obj\Release\Duster.Net.DustJsGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\obj\Release\Duster.Net.DustJsGenerator.dll
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\obj\Release\Duster.Net.DustJsGenerator.pdb
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\obj\Release\Duster.Net.DustJsGenerator.pkgdef
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\obj\Release\Duster.Net.DustJsGenerator.latest.pkgdef
+C:\Users\Eric\Documents\Visual Studio 2017\Projects\duster.net-master\Duster.Net.DustJsGenerator\obj\Release\extension.vsixmanifest

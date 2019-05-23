@@ -1,0 +1,29 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="2b38f76b-0df7-4a21-b3f2-1d55547265b9" Version="1.2.0" Language="en-US" Publisher="Hrusikesh Panda" />
+    <DisplayName>DustJs Compiled Template Generator</DisplayName>
+    <Description xml:space="preserve">Visual Studio Single File Generator (Custom tool) to compile dust.js templates into JavaScript files.</Description>
+    <MoreInfo>https://github.com/mrchief/duster.net</MoreInfo>
+    <License>LICENSE</License>
+    <Icon>dust-compiler-icon.png</Icon>
+    <PreviewImage>dust-compiler-preview.png</PreviewImage>
+  </Metadata>
+  <Installation InstalledByMsi="false">
+    <InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="[12.0,18.0)" />
+    <InstallationTarget Version="[12.0,18.0)" Id="Microsoft.VisualStudio.Ultimate" />
+    <InstallationTarget Version="[12.0,18.0)" Id="Microsoft.VisualStudio.Premium" />
+    <InstallationTarget Version="[12.0,18.0)" Id="Microsoft.VisualStudio.IntegratedShell" />
+    <InstallationTarget Version="[15.0,18.0)" Id="Microsoft.VisualStudio.Community" />
+    <InstallationTarget Version="[15.0,18.0)" Id="Microsoft.VisualStudio.Pro" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="[4.5,)" />
+    <Dependency Id="Microsoft.VisualStudio.MPF.12.0" DisplayName="Visual Studio MPF 12.0" Version="[12.0]" />
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Duster.Net.DustJsGenerator.pkgdef" />
+  </Assets>
+  <Prerequisites>
+    <Prerequisite Id="Microsoft.Net.Core.Component.SDK" Version="[15.0.26208.0,18.0)" DisplayName=".NET Core 1.0.1 development tools" />
+  </Prerequisites>
+</PackageManifest>
